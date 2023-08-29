@@ -7,14 +7,14 @@
 
 ### Skills✨
 
--Programming languages Java, Python, R 
--Tools Stormboard, Canva, laTex
--Core Subjects DSA, CN, OS, DBMS 
--Development Android Studio (java), Basic Web(HTML,CSS)
+- Programming languages: Java, Python, R 
+- Tools Stormboard, Canva, laTex
+- Core Subjects DSA, CN, OS, DBMS
+- Development Android Studio (java), Basic Web(HTML,CSS)
 
 ### How to reach me 📫
-*Linkedin- www.linkedin.com/in/preeti-kintali
-*Gmail- preetikintali@gmail.com
+- Linkedin: www.linkedin.com/in/preeti-kintali
+- Gmail: preetikintali@gmail.com
 
 
 <!--
