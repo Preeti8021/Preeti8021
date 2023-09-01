@@ -4,7 +4,7 @@
 - ⚡ Fun fact: My hobbies are nature photography and poetry!
 
 ### Skills✨
-- Programming languages: Java, Python, R 
+- Programming languages: Java, Python, R, SQL
 - Tools: Stormboard, Canva, laTex
 - Core Subjects: DSA, CN, OS, DBMS
 - Development: Android Studio (java), Basic Web(HTML,CSS)
