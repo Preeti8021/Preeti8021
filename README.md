@@ -19,7 +19,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="preetikintali" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -62,7 +62,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeti8021&show_icons=true&locale=en&layout=compact" alt="preeti8021" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preeti8021&show_icons=true&locale=en" alt="preeti8021" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=preeti8021&show_icons=true&locale=en" alt="preeti8021"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preeti8021&" alt="preeti8021" /></p>
 
