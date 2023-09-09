@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preeti8021&show_icons=true&locale=en" alt="preeti8021" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preeti8021&" alt="preeti8021" /></p>
 
 <!--
 **Preeti8021/Preeti8021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
