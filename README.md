@@ -23,7 +23,7 @@
 ## Github Stats: 
 <table>
   <tr>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeti8021&show_icons=true&locale=en&layout=compact&theme=&theme=blue-green" alt="preeti8021" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeti8021&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="preeti8021" /></td>
 
 <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=preeti8021&show_icons=true&locale=en&theme=radical" alt="preeti8021"/></td>
 </tr>
