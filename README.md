@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning: **Amazon Web Services (AWS)**
 
-- 📫 How to reach me: **preetikintali@gmail.com**
+- 📫 How to reach me: **https://linkedin.com/in/preeti-kintali**
 
 - ⚡ Fun fact: **I write poems, when life hits hard.**
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/in/preeti-kintali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/preeti-kintali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/preeti-kintali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/preeti-kintali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22520660/preeti?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22520660/preeti?tab=profile" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/preetikintali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="preetikintali" height="30" width="40" /></a>
 </p>
