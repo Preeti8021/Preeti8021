@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preeti</h1>
 <h3 align="center">App Development Enthusiast</h3>
-<p><img src = "https://komarev.com/ghpvc/?username=Preeti8021"></p>
+<p align= "center"><img src = "https://komarev.com/ghpvc/?username=Preeti8021"></p>
 
 - 🔭 I’m currently working on: **App Development**
 
