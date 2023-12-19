@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preeti</h1>
 <h3 align="center">App Development Enthusiast</h3>
-![](https://komarev.com/ghpvc/?username=Preeti8021)
+https://komarev.com/ghpvc/?username=Preeti8021
 
 - 🔭 I’m currently working on: **App Development**
 
