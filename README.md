@@ -2,7 +2,7 @@
 <h3 align="center">App Development Enthusiast</h3>
 <p align= "center"><img src = "https://komarev.com/ghpvc/?username=Preeti8021"></p>
 
-- 🔭 I’m currently working on: **App Development**
+- 🔭 I’m currently working on: **Web Development**
 
 - 🌱 I’m currently learning: **Amazon Web Services (AWS)**
 
