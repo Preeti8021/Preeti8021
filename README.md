@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **Amazon Web Services (AWS)**
+- 🌱 I’m currently learning: **Python**
 
 - 📫 How to reach me: **https://linkedin.com/in/preeti-kintali**
 
