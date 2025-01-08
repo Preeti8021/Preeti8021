@@ -60,10 +60,3 @@
     </td>
   </tr>
 </table>
-<table align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preeti8021&theme=blue-green" alt="preeti8021" />
-    </td>
-  </tr>
-</table>
