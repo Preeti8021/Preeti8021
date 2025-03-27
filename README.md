@@ -6,7 +6,7 @@
 
 <p align="center">
   - 🔭 I’m currently working on: <strong>Web Development</strong><br>
-  - 🌱 I’m currently learning: <strong>JavaScript</strong><br>
+  - 🌱 I’m currently learning: <strong>Springboot</strong><br>
   - 📫 How to reach me: <strong><a href="https://linkedin.com/in/preeti-kintali">LinkedIn</a></strong><br>
   - ⚡ Fun fact: <strong>I write poems, when life hits hard.</strong>
 </p>
